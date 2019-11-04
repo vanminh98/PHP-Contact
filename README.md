@@ -1,9 +1,9 @@
-MSV : 16T102111
+MSV : 16t1021230
 
-Tên: Hồ Viết Nhân
+Tên: Phạm Văn Minh
 
 Môn: Mã nguồn mở
 
-username : NhanHV
+username : vanminh
 
-password : 123456
+password : 123
